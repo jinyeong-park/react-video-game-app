@@ -6,7 +6,7 @@ Game Link is a video game discovery web app that helps you find new and interest
 
 - Language: Javascript, Typescript
 - Libraries/Technologies: React
-- CSS framework: Boostrap, Chakra UI
+- CSS framework: Chakra UI
 - Database:
 
 ## Getting Started
@@ -28,7 +28,7 @@ To get started with Game Link, follow these steps:
 - CSS framework: Boostrap (https://getbootstrap.com/)
 - React icons: https://react-icons.github.io/react-icons/
 
-## Functionality
+## Learn
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
@@ -39,7 +39,7 @@ To get started with Game Link, follow these steps:
 - Connect your React apps to the backend
 - Deploy your React apps
 - Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
+- Write clean code
 - Apply best practices
 
 ## Installation
