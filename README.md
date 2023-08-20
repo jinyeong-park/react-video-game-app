@@ -27,6 +27,7 @@ To get started with Game Link, follow these steps:
 - Chakra Responsive design: https://chakra-ui.com/docs/styled-system/responsive-styles
 - CSS framework: Boostrap (https://getbootstrap.com/)
 - React icons: https://react-icons.github.io/react-icons/
+- Video game database API: https://rawg.io/apidocs
 
 ## Learn
 
